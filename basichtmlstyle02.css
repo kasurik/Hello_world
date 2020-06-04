@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.top-profile-row1 {
+  background-color: blueviolet;
+  display: inline;
+}
+
+.left-top-row1-col1 img {
+  margin: 20px;
+  border-radius: 150px;
+}
